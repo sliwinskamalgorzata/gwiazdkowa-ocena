@@ -1,0 +1,28 @@
+
+
+
+
+.rating {
+  display: inline-block;
+  font-size: 0;
+  line-height: 0;
+}
+.rating__star {
+  cursor: pointer;
+  font-size: 100px;
+  line-height: 1;
+}
+.rating__star--hovered, .rating__star--selected {
+  color: #29D58E;
+}
+.hidden{
+  display:none;
+}
+.form-fieldset{
+
+  border-color: #29D58E;
+}
+
+h1{
+  text-align: center;
+}
